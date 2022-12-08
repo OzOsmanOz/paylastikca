@@ -1,5 +1,4 @@
 
-[react-todo-list.webm](https://user-images.githubusercontent.com/107813778/199743210-c289a3fc-d088-4d8d-85cd-decb6e8feb2b.webm)
 
 
 
